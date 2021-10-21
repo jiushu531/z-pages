@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T06:17:22.374Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="d8w10-AepojBSJM5ABBZ" version="15.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-21T06:29:04.255Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="tno5JhWEjLM3Djg5MHV4" version="15.5.7" type="github">
   <diagram id="cZbsMwv4mohsw9obeKkS" name="Page-1">
-    <mxGraphModel dx="1722" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1181" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,7 +103,7 @@
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="ybZ0ILBVRQZvwgyo9vVv-55" target="ybZ0ILBVRQZvwgyo9vVv-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-55" value="&lt;h6&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;1.完成toGroup类型操作，房主对麦位的锁定与解锁&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;2.完成CtoC类型操作，成员申请上麦、房主邀请上麦&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;3.对接apaas后端，对接房间管理模块，同步后台调试与修改&lt;/span&gt;&lt;/div&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
+        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-55" value="&lt;h6&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;1.完成toGroup类型操作，房主对麦位的锁定与解锁&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;2.完成CtoC类型操作，成员申请上麦、房主邀请上麦&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px ; font-weight: 400&quot;&gt;3.对接apaas后端房间管理模块，联调测试&lt;/span&gt;&lt;/div&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
           <mxGeometry x="184" y="600" width="330" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="ybZ0ILBVRQZvwgyo9vVv-56" target="ybZ0ILBVRQZvwgyo9vVv-55">
@@ -127,7 +127,7 @@
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="ybZ0ILBVRQZvwgyo9vVv-62" target="ybZ0ILBVRQZvwgyo9vVv-69">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-62" value="&lt;h6&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;1.web端&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;异常进出房问题优化&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;2.pr文章发布&lt;/span&gt;&lt;/div&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
+        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-62" value="&lt;h6&gt;&lt;div style=&quot;font-size: 11px&quot;&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;web端&lt;/span&gt;&lt;span style=&quot;font-weight: normal&quot;&gt;异常进出房问题优化&lt;/span&gt;&lt;/div&gt;&lt;/h6&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#82b366;fillColor=#d5e8d4;align=left;" vertex="1" parent="1">
           <mxGeometry x="184" y="440" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=11;fontColor=#000000;strokeColor=#000000;" edge="1" source="ybZ0ILBVRQZvwgyo9vVv-64" target="ybZ0ILBVRQZvwgyo9vVv-62" parent="1">
@@ -148,13 +148,13 @@
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-69" value="&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;1.持续进行相关工单及社区维护&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;2.TRTCCalling V1.0.1版本发布&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;" vertex="1" parent="1">
           <mxGeometry x="544" y="440" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-70" value="&lt;div&gt;1.持续解决uniapp全平台适配与打包问题&lt;/div&gt;&lt;div&gt;2.整体功能细节适配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;" vertex="1" parent="1">
-          <mxGeometry x="544" y="520" width="230" height="50" as="geometry" />
+        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-70" value="&lt;span style=&quot;font-size: 11px&quot;&gt;打包优化测试和发布&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;" vertex="1" parent="1">
+          <mxGeometry x="544" y="520" width="116" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-75" value="&lt;div&gt;1.接入trtc，完成成员语音聊天功能&lt;/div&gt;&lt;div&gt;2.与native沟通，保证多端统一&lt;/div&gt;&lt;div&gt;3.完善用户体验，对齐native&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;" vertex="1" parent="1">
           <mxGeometry x="544" y="600" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-77" value="&lt;div&gt;1.相关工单及社区维护&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;2.支持群成员资料展示&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;3.一键跳转到最新消息&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;" vertex="1" parent="1">
+        <mxCell id="ybZ0ILBVRQZvwgyo9vVv-77" value="&lt;div&gt;1.相关工单及社区维护&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 11px&quot;&gt;2.完成测试与发布&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontSize=11;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;" vertex="1" parent="1">
           <mxGeometry x="544" y="680" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ybZ0ILBVRQZvwgyo9vVv-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;fontColor=#000000;strokeColor=#000000;" edge="1" parent="1" source="ybZ0ILBVRQZvwgyo9vVv-79" target="ybZ0ILBVRQZvwgyo9vVv-51">
