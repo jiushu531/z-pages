@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T03:11:31.416Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="RCByNxOUwo482g1meob2" version="21.6.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-08-11T08:59:32.038Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="YnwXA24e20mW4lG1V5wm" version="21.6.2" type="github" pages="2">
   <diagram id="cZbsMwv4mohsw9obeKkS" name="Page-1">
     <mxGraphModel dx="1382" dy="1165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="690" pageHeight="980" background="none" math="0" shadow="0">
       <root>
@@ -108,6 +108,36 @@
       <root>
         <mxCell id="YV-GYwL-8fQm97_LysvW-0" />
         <mxCell id="YV-GYwL-8fQm97_LysvW-1" parent="YV-GYwL-8fQm97_LysvW-0" />
+        <mxCell id="pHW7LT072AJl5eIwd0x--20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YV-GYwL-8fQm97_LysvW-1" source="rSsVm-vHSbd3pDei0P0O-0" target="pHW7LT072AJl5eIwd0x--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rSsVm-vHSbd3pDei0P0O-0" value="开始" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry x="110" y="78" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YV-GYwL-8fQm97_LysvW-1" source="pHW7LT072AJl5eIwd0x--3" target="pHW7LT072AJl5eIwd0x--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--3" value="copy" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry x="217" y="78" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--5" value="&lt;font color=&quot;#0000ff&quot;&gt;copy vue3 代码到 uniapp&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry x="185" y="44" width="151" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="YV-GYwL-8fQm97_LysvW-1" source="pHW7LT072AJl5eIwd0x--6" target="pHW7LT072AJl5eIwd0x--11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--6" value="traverseDir" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry x="326" y="78" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="YV-GYwL-8fQm97_LysvW-1" source="pHW7LT072AJl5eIwd0x--11" target="pHW7LT072AJl5eIwd0x--6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--11" value="isDir？" style="rhombus;whiteSpace=wrap;html=1;rounded=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry x="322" y="127" width="80" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pHW7LT072AJl5eIwd0x--18" value="true" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry x="387" y="127" width="39" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
