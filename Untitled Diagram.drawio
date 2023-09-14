@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-09-13T03:40:27.808Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="gVkDdfFQPtYBomvAjrkW" version="21.7.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-09-14T07:31:17.258Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="oVMYVyeCDxA_4J0UvVnd" version="21.7.5" type="github" pages="3">
   <diagram id="cZbsMwv4mohsw9obeKkS" name="Page-1">
-    <mxGraphModel dx="1384" dy="1165" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="690" pageHeight="980" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1256" dy="1205" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="690" pageHeight="980" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -255,6 +255,9 @@
         </mxCell>
         <mxCell id="Hzs627xUqxji3BCasDr4-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="YV-GYwL-8fQm97_LysvW-1" vertex="1">
           <mxGeometry x="633.26" y="78" width="72" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="xuVVls3gZDXAbimA7Gsb-0" value="wasm 小程序支持-》同一接口层-〉roomkit改造-》统一代码选择uniapp-〉问题list-》发布时间-〉客户情况-》后续优化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="YV-GYwL-8fQm97_LysvW-1">
+          <mxGeometry y="550" width="640" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
